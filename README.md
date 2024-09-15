@@ -1,4 +1,4 @@
-👨‍💻 About Me: I'm an aspiring data engineer with a strong background in IoT-based solutions and software development. My work primarily focuses on leveraging technology to solve real-world problems, particularly in the agricultural sector.
+👨‍💻 About Me: I'm an software engineer with a strong background in IoT-based solutions and software development. My work primarily focuses on leveraging technology to solve real-world problems, particularly in the agricultural sector.
 
 🚀 Projects:
 
