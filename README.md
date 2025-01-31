@@ -18,7 +18,7 @@ Hello there! I'm a software engineer with a passion for developing innovative te
 
 🚀 **Highlighted Projects**:
 
-### **1. Platforme d'Encadrement (Student Supervisor Platform)**  
+### **1. Student Supervisor Platform**  
 A dynamic platform designed to help students select their academic supervisor and mémoire advisor. This platform also features a rating system that allows students to give feedback on their experiences, fostering a more transparent and responsive academic environment. The goal is to bridge the gap between students and faculty, providing them with the tools to manage their academic relationships and track their progress.
 
 ### **2. IoT Local Server with ChirpStack**  
