@@ -4,6 +4,8 @@ Hello there! I'm a software engineer with a passion for developing innovative te
 
 
 🔧 **Tech Stack**:
+
+
 [![IoT](https://img.shields.io/badge/IoT-000000?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/) 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
@@ -11,6 +13,7 @@ Hello there! I'm a software engineer with a passion for developing innovative te
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+
 
 🚀 **Highlighted Projects**:
 
