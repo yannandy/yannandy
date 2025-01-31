@@ -1,6 +1,8 @@
 # 👨‍💻 About Me
 
 Hello there! I'm a software engineer with a passion for developing innovative tech solutions, especially within the Internet of Things (IoT) and software development. I believe in using technology to address real-world challenges, and I focus on creating practical systems that make a tangible impact.
+
+
 🔧 **Tech Stack**:
 [![IoT](https://img.shields.io/badge/IoT-000000?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/) 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
